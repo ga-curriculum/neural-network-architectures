@@ -19,7 +19,7 @@
 
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
-| [Full Lesson Deck](tktk) | 120 | To be used for the full session, includes the labs below  |
+| [Full Lesson Deck](https://docs.google.com/presentation/d/1DC0z09Q9-BzI3uYxDf-kWQR2lzc3b4KoQFxmaeHvvto/edit?usp=sharing) | 120 | To be used for the full session, includes the labs below  |
 | [Intro to CNNs](./intro-to-cnns.ipynb) | 40 | Understand convolutional layers, pooling, and filters.  |
 | [Intro to RNNs](./intro-to-rnns.ipynb) | 30 | Explain RNNs, their structure, and sequence modeling. |
 | [Transfer Learning](./transfer-learning.ipynb) | 40 | Fine-tune pre-trained models for specific tasks (e.g., classification, object detection). |
